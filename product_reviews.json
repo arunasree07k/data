@@ -1,0 +1,50 @@
+[
+  {
+    "review_id": "REV001",
+    "product_id": "P001",
+    "customer_id": "C001",
+    "rating": 5,
+    "review_text": "Excellent performance",
+    "review_date": "2026-10-05"
+  },
+  {
+    "review_id": "REV002",
+    "product_id": "P002",
+    "customer_id": "C002",
+    "rating": 4,
+    "review_text": "Good value for money",
+    "review_date": "2026-10-06"
+  },
+  {
+    "review_id": "REV003",
+    "product_id": "P003",
+    "customer_id": "C003",
+    "rating": 3,
+    "review_text": "Works as expected",
+    "review_date": "2026-10-07"
+  },
+  {
+    "review_id": "REV004",
+    "product_id": "P005",
+    "customer_id": "C004",
+    "rating": 5,
+    "review_text": "Great display quality",
+    "review_date": "2026-10-08"
+  },
+  {
+    "review_id": "REV005",
+    "product_id": "P009",
+    "customer_id": "C008",
+    "rating": 4,
+    "review_text": "Comfortable to use",
+    "review_date": "2026-10-12"
+  },
+  {
+    "review_id": "REV006",
+    "product_id": "P007",
+    "customer_id": "C010",
+    "rating": 2,
+    "review_text": "Could be more comfortable",
+    "review_date": "2026-10-14"
+  }
+]
